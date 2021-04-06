@@ -1,4 +1,4 @@
-package com.jujuidu.book.springboot.web;
+package com.jujuidu.book.springboot.web.dto;
 
 
 import com.jujuidu.book.springboot.web.dto.HelloResponseDto;
